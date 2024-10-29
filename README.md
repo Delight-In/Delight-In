@@ -6,9 +6,9 @@
 - 😄 Pronouns: Priyanka
 - ⚡ Fun fact: I am lazy.....but grab things very easily while learning.
 
-<!---
+
      # Projects:
      1) DeepFake Video/Image Detection.
      2) Myntra Rewiew Scraper.
      3) ML-Dl Algorith from Scratch.
---->
+
