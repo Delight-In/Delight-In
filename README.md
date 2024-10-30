@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Priyanka
-- ⚡ Fun fact: I am lazy 😄😄😄😄😄😄😄.....but grab things very easily while learning👀👀👀👀.
+- ⚡ Fun fact: Nothing.
 
 # Projects:
 
