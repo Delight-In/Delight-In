@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Delight-In
-- 👀 I’m interested in Data Science and AI
+- 👀 I’m interested in Data Science and Artifical Intelligence.
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
