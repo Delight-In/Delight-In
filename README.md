@@ -1,5 +1,4 @@
-Here's a structured GitHub portfolio for you, based on the information you provided:
-
+# My github Portfolio
 ---
 
 # 👋 Hi, I’m @Delight-In
@@ -43,4 +42,4 @@ An intelligent recommendation engine that utilizes collaborative filtering and c
 
 ---
 
-Feel free to customize any part of this portfolio with additional details or links to your projects. Happy coding!
+Happy coding!
