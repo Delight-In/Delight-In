@@ -19,7 +19,7 @@ I'm looking to collaborate on exciting AI projects, data analysis, and any innov
 Feel free to reach out via [your email or LinkedIn profile link here].
 
 ## 😄 Pronouns
-[Your preferred pronouns here]
+Nothing
 
 ## ⚡ Fun Fact
 Nothing (but I'm always open to discovering new fun facts)!
