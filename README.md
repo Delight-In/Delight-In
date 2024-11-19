@@ -43,5 +43,3 @@ A hands-on implementation of machine learning and deep learning algorithms from 
 An intelligent recommendation engine that utilizes collaborative filtering and content-based filtering techniques to provide personalized suggestions.
 
 ---
-
-Happy coding!
