@@ -38,7 +38,4 @@ A web scraping tool to extract product reviews from Myntra, designed for sentime
 ### 3. ML-DL Algorithm from Scratch
 A hands-on implementation of machine learning and deep learning algorithms from the ground up, aimed at understanding the underlying mechanics of various models.
 
-### 4. Recommendation System
-An intelligent recommendation engine that utilizes collaborative filtering and content-based filtering techniques to provide personalized suggestions.
-
 ---
