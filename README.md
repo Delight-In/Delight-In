@@ -17,11 +17,8 @@ Welcome to my GitHub profile! I'm passionate about Data Science and Artificial I
 I'm looking to collaborate on exciting AI projects, data analysis, and any innovative ideas that combine technology and creativity!
 
 ## 📫 How to Reach Me
-Feel free to reach out via email:.
-
-## 😄 Pronouns
-Nothing
+Feel free to reach out via email:
 
 ## ⚡ Fun Fact
-Nothing (but I'm always open to discovering new fun facts)!
+Data scientists are known to "data mine" for new insights, and to "data mash" by combining different datasets.
 
