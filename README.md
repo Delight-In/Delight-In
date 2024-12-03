@@ -22,3 +22,9 @@ Feel free to reach out via email:
 ## ⚡ Fun Fact
 Data scientists are known to "data mine" for new insights, and to "data mash" by combining different datasets.
 
+## Projects Collection
+
+- DeepFake
+- ChatBot
+- Anomaly detection
+
