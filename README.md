@@ -9,9 +9,7 @@ Welcome to my GitHub profile! I'm passionate about Data Science and Artificial I
 - Artificial Intelligence
 - Computer Vision
 - ML
-- DL
-
-- 
+- DL 
 - Natural Language Processing
 
 ## 🌱 Currently Learning
