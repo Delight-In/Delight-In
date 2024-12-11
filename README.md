@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm passionate about Data Science and Artificial I
 - Computer Vision
 - Natural Language Processing
 
-- --------
-
 ## My Skills
 
 - Python
