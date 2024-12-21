@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Priyanka
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast, constantly exploring the exciting world of data, machine learning, and artificial intelligence. Through this repository, I aim to share my projects, experiments, and learning journey. I'm always open to collaboration and feedback!
+Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast, constantly exploring the exciting world of data, machine learning, and artificial intelligence. Through this repository, I aim to share my projects, experiments, and learning journey.
 
 ## 👀 My Interests
-- Data Science & Analytics
+
+- Physics
+- Data Science
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
 - Deep Learning (DL)
@@ -13,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 - Big Data & Cloud Technologies
 
 ## 🔧 Technologies & Tools
+
 - **Languages**: Python, SQL, R
 - **Libraries & Frameworks**:
   - Data Science: **Pandas**, **Numpy**, **SciPy**
