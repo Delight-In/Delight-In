@@ -1,23 +1,36 @@
-# 👋 Hi, I’m Priyanka
+# 👋 Hi, I'm Priyanka
 
-Welcome to my GitHub profile! I'm passionate about Data Science and Artificial Intelligence, and I'm excited to share my projects and learn along the way.
+Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast, constantly exploring the exciting world of data, machine learning, and artificial intelligence. Through this repository, I aim to share my projects, experiments, and learning journey. I'm always open to collaboration and feedback!
 
-## 👀 Interests
-- Data Science
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
+## 👀 My Interests
+- Data Science & Analytics
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Computer Vision (CV)
+- Natural Language Processing (NLP)
+- Data Visualization
+- Big Data & Cloud Technologies
 
-## My Skills
+## 🔧 Technologies & Tools
+- **Languages**: Python, SQL, R
+- **Libraries & Frameworks**:
+  - Data Science: **Pandas**, **Numpy**, **SciPy**
+  - Machine Learning: **Scikit-Learn**, **XGBoost**, **LightGBM**
+  - Deep Learning: **TensorFlow**, **Keras**, **PyTorch**
+  - Computer Vision: **OpenCV**, **YOLO**, **TensorFlow Object Detection API**
+  - NLP: **SpaCy**, **Transformers**, **NLTK**
+- **Data Visualization**: **Matplotlib**, **Seaborn**, **Plotly**
+- **Version Control**: **Git**, **GitHub**
+- **Cloud**: **AWS**, **Google Cloud Platform (GCP)**
+- **Databases**: **MySQL**, **MongoDB**
 
-- Python
-- Pandas
-- Numpy
-- SciKit-Learn
-- OpenCV
-- TensorFlow
-- Keras
-- Pytorch
-  
+## 🌱 Currently Learning
+- Advanced NLP techniques
+- Reinforcement Learning
+- Cloud computing for AI
+
+## 📫 How to Reach Me
+Feel free to connect with me on [LinkedIn](your-linkedin-url) or [Email](your-email-address). I’m open to discussions, collaborations, and feedback!
+
+---
