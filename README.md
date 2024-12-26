@@ -36,4 +36,10 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 ## 📫 How to Reach Me
 Feel free to connect with me on [LinkedIn](your-linkedin-url) or [Email](your-email-address). I’m open to discussions, collaborations, and feedback!
 
+## Projects:
+ * DEEPFAKE-VIDEO-DETECTION-PROJECT
+ * AI-Based-Chatbot-for-Mental-Health
+ * Predicting-Agricultural-Yield-with-Machine-Learning
+ * AI-Enhanced-Fake-News-Detection-System
+
 ---
