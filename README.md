@@ -43,11 +43,6 @@ Feel free to connect with me on [LinkedIn](your-linkedin-url) or [Email](your-em
  * AI-Enhanced-Fake-News-Detection-System
 
 ---
-# Poisson Equation Solver
-
-This repository contains a solver for the **Poisson equation**. The Poisson equation describes the relationship between a scalar field \( \phi(\mathbf{r}) \) and its sources \( f(\mathbf{r}) \).
-
-## General Form of the Poisson Equation
 
 The Poisson equation is expressed as:
 
@@ -55,33 +50,9 @@ $$
 \nabla^2 \phi(\mathbf{r}) = f(\mathbf{r})
 $$
 
-Where:
-- \( \nabla^2 \) is the **Laplacian operator**.
-- \( \phi(\mathbf{r}) \) is the **potential field**.
-- \( f(\mathbf{r}) \) is the **source term** (e.g., charge or mass density).
-
-## Example in Electrostatics
 
 In electrostatics, the Poisson equation is:
 
 $$
 \nabla^2 \phi(\mathbf{r}) = -\frac{\rho(\mathbf{r})}{\epsilon_0}
 $$
-
-Where:
-- \( \rho(\mathbf{r}) \) is the **charge density**.
-- \( \epsilon_0 \) is the **permittivity of free space**.
-
-## Usage Example
-
-```python
-import poisson_solver
-
-# Define source term
-source_term = lambda x, y, z: 1 / (x**2 + y**2 + z**2)
-
-# Solve Poisson equation on a grid
-phi = poisson_solver.solve_poisson(source_term, grid_size=(100, 100, 100))
-
-# Visualize the result
-poisson_solver.visualize_solution(phi)
