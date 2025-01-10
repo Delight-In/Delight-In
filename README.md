@@ -36,18 +36,15 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 ## 📫 How to Reach Me
 Feel free to connect with me on [LinkedIn](your-linkedin-url) or [Email](your-email-address). I’m open to discussions, collaborations, and feedback!
 
-## Projects:
- * DeepFake-Video-Detection
- * AI-Based-Chatbot-for-Mental-Health
-
----
 
 The Poisson equation is expressed as:
+
 $$
 \nabla^2 \phi(\mathbf{r}) = f(\mathbf{r})
 $$
 
 In electrostatics, the Poisson equation is:
+
 $$
 \nabla^2 \phi(\mathbf{r}) = -\frac{\rho(\mathbf{r})}{\epsilon_0}
 $$
