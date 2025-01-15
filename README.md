@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 - **Databases**: **MySQL**, **MongoDB**
 
 ## 🌱 Currently Learning
-- Advanced NLP techniques
+- Advanced Agorithms
 - Reinforcement Learning
 - Cloud computing for AI
 
