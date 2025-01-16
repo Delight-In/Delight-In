@@ -55,66 +55,72 @@ $$
 ### 1. **Counting (Permutation and Combination)**
 
 - **Permutation (P(n, k))**: 
-  - Formula: \( P(n, k) = \frac{n!}{(n - k)!} \)
+  - Formula: $$
+  - \( P(n, k) = \frac{n!}{(n - k)!} \)
+  - $$
   - Explanation: The number of ways to arrange \(k\) items out of \(n\) distinct items in a specific order.
 
 - **Combination (C(n, k))**:
-  - Formula: \( C(n, k) = \frac{n!}{k!(n - k)!} \)
+  - Formula: $$
+  - \( C(n, k) = \frac{n!}{k!(n - k)!} \)
+  - $$
   - Explanation: The number of ways to select \(k\) items from \(n\) distinct items without regard to order.
 
 ---
 
 ### 2. **Probability Axioms**
 
-- **Axiom 1**: \( P(S) = 1 \), where \(S\) is the sample space.
-- **Axiom 2**: For any event \(A\), \( P(A) \geq 0 \).
-- **Axiom 3**: For mutually exclusive events \( A \) and \( B \), \( P(A \cup B) = P(A) + P(B) \).
+- **Axiom 1**: $$ \( P(S) = 1 \) $$, where \(S\) is the sample space.
+- **Axiom 2**: For any event $$ \(A\), \( P(A) \geq 0 \) $$.
+- **Axiom 3**: For mutually exclusive events $$ \( A \) and \( B \), \( P(A \cup B) = P(A) + P(B) \) $$.
 
 ---
 
 ### 3. **Sample Space and Events**
 
 - **Sample Space (S)**: The set of all possible outcomes in a probability experiment.
-  - Example: For a coin toss, \( S = \{H, T\} \).
+  - Example: For a coin toss, $$ \( S = \{H, T\} \) $$.
   
 - **Event (A)**: A subset of the sample space.
-  - Example: Event A could be "getting heads" \( A = \{H\} \).
+  - Example: Event A could be "getting heads" $$ \( A = \{H\} \) $$.
 
 ---
 
 ### 4. **Independent Events**
 
 - **Definition**: Two events \(A\) and \(B\) are independent if the occurrence of one does not affect the probability of the other.
-  - Formula: \( P(A \cap B) = P(A) \cdot P(B) \)
+  - Formula: $$ \( P(A \cap B) = P(A) \cdot P(B) \) $$
 
 ---
 
 ### 5. **Mutually Exclusive Events**
 
 - **Definition**: Two events are mutually exclusive if they cannot occur at the same time.
-  - Formula: \( P(A \cap B) = 0 \)
+  - Formula: $$ \( P(A \cap B) = 0 \) $$
 
 ---
 
 ### 6. **Marginal, Conditional, and Joint Probability**
 
 - **Marginal Probability**: The probability of a single event, ignoring the other events.
-  - Formula: \( P(A) = \sum_{B} P(A \cap B) \)
+  - Formula:$$ \( P(A) = \sum_{B} P(A \cap B) \) $$
 
 - **Conditional Probability**: The probability of event \(A\) given that \(B\) has occurred.
-  - Formula: \( P(A|B) = \frac{P(A \cap B)}{P(B)} \)
+  - Formula:$$  \( P(A|B) = \frac{P(A \cap B)}{P(B)} \) $$
 
 - **Joint Probability**: The probability of two events occurring simultaneously.
-  - Formula: \( P(A \cap B) \)
+  - Formula: $$ \( P(A \cap B) \) $$
 
 ---
 
 ### 7. **Bayes' Theorem**
 
-- **Formula**: 
+- **Formula**:
+- $$
   \[
   P(A|B) = \frac{P(B|A) P(A)}{P(B)}
   \]
+  $$
   - Explanation: It allows you to update the probability of an event based on new evidence.
 
 ---
@@ -122,34 +128,34 @@ $$
 ### 8. **Conditional Expectation and Variance**
 
 - **Conditional Expectation**: The expected value of \(X\) given event \(A\).
-  - Formula: \( E[X|A] = \sum x \cdot P(X=x|A) \)
+  - Formula:$$ \( E[X|A] = \sum x \cdot P(X=x|A) \) $$
 
 - **Conditional Variance**: The variance of \(X\) given event \(A\).
-  - Formula: \( \text{Var}(X|A) = E[X^2|A] - (E[X|A])^2 \)
+  - Formula:$$ \( \text{Var}(X|A) = E[X^2|A] - (E[X|A])^2 \) $$
 
 ---
 
 ### 9. **Mean, Median, Mode, and Standard Deviation**
 
 - **Mean (Expected Value)**:
-  - Formula: \( E[X] = \sum x \cdot P(x) \)
+  - Formula:$$ \( E[X] = \sum x \cdot P(x) \) $$
 
 - **Median**: The middle value in a sorted list of data points.
   
 - **Mode**: The value that appears most frequently in a data set.
 
 - **Standard Deviation (SD)**:
-  - Formula: \( \sigma = \sqrt{\text{Var}(X)} \)
+  - Formula:$$ \( \sigma = \sqrt{\text{Var}(X)} \) $$
 
 ---
 
 ### 10. **Correlation and Covariance**
 
 - **Covariance**: Measures the relationship between two variables.
-  - Formula: \( \text{Cov}(X, Y) = E[(X - E[X])(Y - E[Y])] \)
+  - Formula:$$ \( \text{Cov}(X, Y) = E[(X - E[X])(Y - E[Y])] \) $$
 
 - **Correlation**: Standardized measure of covariance.
-  - Formula: \( \rho = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y} \)
+  - Formula:$$ \( \rho = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y} \) $$
 
 ---
 
@@ -163,23 +169,23 @@ $$
 
 - **Discrete Random Variable**: A variable that can take on a finite number of values.
 - **Probability Mass Function (PMF)**: Describes the probability of each outcome of a discrete random variable.
-  - Formula: \( P(X = x) \)
+  - Formula: $$ \( P(X = x) \) $$
 
 ---
 
 ### 13. **Common Distributions**
 
 - **Uniform Distribution (Discrete)**:
-  - PMF: \( P(X = x) = \frac{1}{n} \), where \( n \) is the number of possible outcomes.
+  - PMF: $$ \( P(X = x) = \frac{1}{n} \) $$, where \( n \) is the number of possible outcomes.
 
 - **Bernoulli Distribution**:
-  - PMF: \( P(X = 1) = p, \quad P(X = 0) = 1 - p \)
+  - PMF: $$ \( P(X = 1) = p $$, \quad P(X = 0) = 1 - p \)
 
 - **Binomial Distribution**:
-  - PMF: \( P(X = k) = \binom{n}{k} p^k (1 - p)^{n - k} \)
+  - PMF: $$ \( P(X = k) = \binom{n}{k} p^k (1 - p)^{n - k} \) $$
 
 - **Poisson Distribution**:
-  - PMF: \( P(X = k) = \frac{\lambda^k e^{-\lambda}}{k!} \)
+  - PMF: $$ \( P(X = k) = \frac{\lambda^k e^{-\lambda}}{k!} \) $$
 
 - **Exponential Distribution**:
   - PDF: \( f(x) = \lambda e^{-\lambda x}, \quad x \geq 0 \)
