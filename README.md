@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 - **Databases**: **MySQL**, **MongoDB**
 
 ## 🌱 Currently Learning
+- CV
+- NLP
 - Advanced Agorithms
-- Reinforcement Learning
-- Cloud computing for AI
 
 ## 📫 How to Reach Me
 Feel free to connect with me on [LinkedIn](your-linkedin-url) or [Email](your-email-address). I’m open to discussions, collaborations, and feedback!
