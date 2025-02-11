@@ -52,8 +52,15 @@ $$
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Delight-In&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Delight-In)
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Delight-In&theme=github)
+
+![GitHub Contributions](https://github-contributions.now.sh/Delight-In)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Delight-In)
 
 
 
