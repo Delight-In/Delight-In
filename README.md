@@ -46,7 +46,7 @@ $$
 \nabla^2 \phi(\mathbf{r}) = -\frac{\rho(\mathbf{r})}{\epsilon_0}
 $$
 
-![Total Views](https://img.shields.io/github/views/count/Delight-In/README.md?style=flat-square)
+[Total Views](https://img.shields.io/github/views/count/Delight-In/README.md?style=flat-square)
 
 
 
