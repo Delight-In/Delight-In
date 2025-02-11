@@ -50,7 +50,7 @@ $$
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delight-In&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-Ine&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Delight-In&theme=radical)
 
