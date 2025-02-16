@@ -27,9 +27,8 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 ---
 
 ### 📧 Let's Connect
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- Email:
+- LinkedIn:
 
 ---
 
