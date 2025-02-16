@@ -26,10 +26,4 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 
 ---
 
-### 📧 Let's Connect
-- Email:
-- LinkedIn:
-
----
-
 Thank you for visiting my GitHub! 🚀
