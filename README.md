@@ -26,5 +26,6 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 
 ---
 Kaggle: [My Kaggle Profile](https://www.kaggle.com/priyanka369)
+Medium: [Medium](https://medium.com/@priyanka.professionalwork)
 
 Thank you for visiting my GitHub! 🚀
