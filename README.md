@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Delight-In)
 
 ---
-Kaggle: [My Kaggle Profile](https://www.kaggle.com/priyanka369)
-Medium: [Medium](https://medium.com/@priyanka.professionalwork)
+[My Kaggle Profile](https://www.kaggle.com/priyanka369)
+[Medium](https://medium.com/@priyanka.professionalwork)
 
 Thank you for visiting my GitHub! 🚀
