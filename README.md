@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 
 [My Kaggle Profile](https://www.kaggle.com/priyanka369)
 
+[LeetCode](https://leetcode.com/u/xqRQuJc9jA/)
 
 [Medium](https://medium.com/@priyanka.professionalwork)
 
