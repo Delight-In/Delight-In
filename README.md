@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In&layout=compact&theme=radical)
 
 ---
+## 🏆 Skills
+
+* Python
+* SQL
+* DBMS
+* ML and DL
 
 ## 🏆 My GitHub Achievements
 
