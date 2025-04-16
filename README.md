@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
   </a>
   <a href="https://medium.com/@priyanka.professionalwork" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_M.png" alt="Medium" width="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-medium-47-433328.png" alt="Medium" width="40" />
   </a>
   <a href="https://github.com/priyanka369" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" />
