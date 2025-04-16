@@ -2,14 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast, constantly exploring the exciting world of data, machine learning, and artificial intelligence. Through this repository, I aim to share my projects, experiments, and learning journey.
 
-## 🚀 About Me
-- 💻 I am currently working on data science and machine learning projects.
-- 🌱 I'm learning new techniques in deep learning, reinforcement learning, and natural language processing (NLP).
-- 📚 I love exploring new data science tools and technologies to solve real-world problems.
-- 🤖 Always looking for ways to apply AI to make impactful changes in various industries.
-
----
-
 ## 📈 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delight-In&show_icons=true&count_private=true&hide=prs&theme=radical)
@@ -27,10 +19,20 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
 ---
 ### Other Works:
 
-[My Kaggle Profile](https://www.kaggle.com/priyanka369)
+<p align="left">
+  <a href="https://www.kaggle.com/priyanka369" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/xqRQuJc9jA/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
+  </a>
+  <a href="https://medium.com/@priyanka.professionalwork" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_M.png" alt="Medium" width="40" />
+  </a>
+  <a href="https://github.com/priyanka369" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" />
+  </a>
+</p>
 
-[LeetCode](https://leetcode.com/u/xqRQuJc9jA/)
-
-[Medium](https://medium.com/@priyanka.professionalwork)
 
 Thank you for visiting my GitHub! 🚀
