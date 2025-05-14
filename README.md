@@ -23,15 +23,6 @@ Welcome to my GitHub profile! I'm passionate about building useful tools, writin
 
 ---
 
-## 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My Personal Website](https://yourblog.com/post)
-- [Understanding OAuth in Simple Terms](https://yourblog.com/post)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting! 🎉
