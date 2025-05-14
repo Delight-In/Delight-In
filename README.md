@@ -1,76 +1,86 @@
-# 👋 Hi, I'm Priyanka
+# 👩‍💻 Priyanka — Data Scientist | Software Engineering Enthusiast
 
-Welcome to my GitHub! I'm a **Data Scientist** and **AI enthusiast** with a strong passion for software engineering and solving real-world problems through technology. I enjoy architecting intelligent systems, building scalable machine learning pipelines, and continuously exploring advancements in **AI, ML, and software development**.
-
-This space is where I share my **projects**, **research experiments**, and **coding challenges** as part of my journey in becoming a well-rounded engineer with expertise in both **data science** and **software engineering**.
-
----
-
-## 🚀 What I'm Excited About
-
-* Building robust, production-ready **machine learning systems**
-* Exploring **MLOps** and **cloud-native AI deployments**
-* Writing clean, maintainable **Python** and **backend code**
-* Solving algorithmic problems on platforms like **LeetCode**
-* Learning modern software practices like **CI/CD**, **Docker**, **Kubernetes**, and **microservices architecture**
+Hey there! I'm Priyanka — a curious mind who loves building intelligent systems, exploring patterns in data, and crafting clean, responsive user experiences.  
+Whether it's building predictive ML models or designing modern web interfaces, I'm passionate about **solving real-world problems through smart code and design thinking**.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 Tech Snapshot
 
-### Core Languages & Tools:
-
-* **Python**, **SQL**
-* **Git**, **Linux**, **Docker**
-* **FastAPI**, **Flask**, **Streamlit**
-* **Pandas**, **NumPy**, **Scikit-learn**
-* **TensorFlow**, **Keras**, **PyTorch**
-* **MySQL**, **PostgreSQL**, **MongoDB**
-
-### Software Engineering Practices:
-
-* OOP & Design Patterns
-* RESTful API Development
-* Test-Driven Development (TDD)
-* Cloud: AWS (S3, Lambda), GCP
-* Data Structures & Algorithms
+| 💡 Domain | ⚙️ Skills & Tools |
+|----------|------------------|
+| **Programming & Scripting** | Python, JavaScript (ES6+), TypeScript, SQL |
+| **AI & Machine Learning** | Scikit-learn, TensorFlow, Deep Learning, Data Visualization |
+| **Front-End Engineering** | React.js, Next.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3 |
+| **Database & Backend Basics** | MySQL, MongoDB, DBMS |
+| **Version Control & Deployment** | Git, GitHub, Vercel, Netlify |
+| **Tools & Platforms** | Jupyter, Colab, VS Code, Postman |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delight-In\&show_icons=true\&count_private=true\&hide=prs\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In\&layout=compact\&theme=radical)
-
----
-
-## 🏆 GitHub Achievements
-
-![Profile Views](https://komarev.com/ghpvc/?username=Delight-In)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Delight-In)
-
----
-
-## 🌐 Explore More of My Work
-
-<p align="left">
-  <a href="https://www.kaggle.com/priyanka369" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/xqRQuJc9jA/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
-  </a>
-  <a href="https://medium.com/@priyanka.professionalwork" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-medium-47-433328.png" alt="Medium" width="40" />
-  </a>
-  <a href="https://github.com/priyanka369" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Delight-In&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-Thank you for visiting my GitHub profile!
+## 🧠 My Mindset
 
+> "Great software doesn’t just work — it tells a story, solves a problem, and inspires innovation."
+
+### 🔍 I Believe In:
+- Code that's clean, scalable, and meaningful
+- Data that's insightful and actionable
+- Products that serve real users, not just hypothetical ones
+
+---
+
+## 🏆 Developer Milestones
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Delight-In&theme=radical&margin-w=5)
+
+- 🧪 Built end-to-end ML projects with real datasets
+- 🖼️ Designed sleek, responsive UIs with Tailwind and React
+- 🧠 Consistent learner on platforms like LeetCode and Kaggle
+
+---
+
+## 🌐 Explore My Work
+
+| Platform | Link |
+|---------|------|
+| 🧠 **Kaggle** | [kaggle.com/priyanka369](https://www.kaggle.com/priyanka369) |
+| 🧩 **LeetCode** | [leetcode.com/u/xqRQuJc9jA](https://leetcode.com/u/xqRQuJc9jA/) |
+| ✍️ **Medium Blog** | [medium.com/@priyanka.professionalwork](https://medium.com/@priyanka.professionalwork) |
+| 💼 **GitHub** | [github.com/priyanka369](https://github.com/priyanka369) |
+
+---
+
+## 🌱 What I’m Learning Now
+
+- Advanced **Next.js 14** with Server Actions
+- Deploying scalable AI projects
+- Mastering **Redux Toolkit** patterns
+- Exploring **Vector Databases** & **LLMs**
+
+---
+
+## 🎯 Let's Build Something Awesome
+
+I'm always open to collaboration, brainstorming tech ideas, or contributing to exciting projects.
+
+Feel free to connect or just say hi!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Delight-In" alt="Profile views" />
+</p>
+
+---
+
+_Thanks for visiting my profile. Stay curious, keep building! 🌟_
