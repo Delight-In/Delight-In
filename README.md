@@ -1,29 +1,59 @@
 # 👋 Hi, I'm Priyanka
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast, constantly exploring the exciting world of data, machine learning, and artificial intelligence. Through this repository, I aim to share my projects, experiments, and learning journey.
+Welcome to my GitHub! I'm a **Data Scientist** and **AI enthusiast** with a strong passion for software engineering and solving real-world problems through technology. I enjoy architecting intelligent systems, building scalable machine learning pipelines, and continuously exploring advancements in **AI, ML, and software development**.
 
-## 📈 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delight-In&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In&layout=compact&theme=radical)
+This space is where I share my **projects**, **research experiments**, and **coding challenges** as part of my journey in becoming a well-rounded engineer with expertise in both **data science** and **software engineering**.
 
 ---
-## 🏆 Skills
 
-* Python
-* SQL
-* DBMS
-* ML and DL
+## 🚀 What I'm Excited About
 
-## 🏆 My GitHub Achievements
+* Building robust, production-ready **machine learning systems**
+* Exploring **MLOps** and **cloud-native AI deployments**
+* Writing clean, maintainable **Python** and **backend code**
+* Solving algorithmic problems on platforms like **LeetCode**
+* Learning modern software practices like **CI/CD**, **Docker**, **Kubernetes**, and **microservices architecture**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Core Languages & Tools:
+
+* **Python**, **SQL**
+* **Git**, **Linux**, **Docker**
+* **FastAPI**, **Flask**, **Streamlit**
+* **Pandas**, **NumPy**, **Scikit-learn**
+* **TensorFlow**, **Keras**, **PyTorch**
+* **MySQL**, **PostgreSQL**, **MongoDB**
+
+### Software Engineering Practices:
+
+* OOP & Design Patterns
+* RESTful API Development
+* Test-Driven Development (TDD)
+* Cloud: AWS (S3, Lambda), GCP
+* Data Structures & Algorithms
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delight-In\&show_icons=true\&count_private=true\&hide=prs\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In\&layout=compact\&theme=radical)
+
+---
+
+## 🏆 GitHub Achievements
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Delight-In)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Delight-In)
 
 ---
-## 🏆 Other Works:
+
+## 🌐 Explore More of My Work
 
 <p align="left">
   <a href="https://www.kaggle.com/priyanka369" target="_blank">
@@ -40,5 +70,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast,
   </a>
 </p>
 
+---
 
-Thank you for visiting my GitHub! 🚀
+Thank you for visiting my GitHub profile!
+
