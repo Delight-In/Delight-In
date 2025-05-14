@@ -14,13 +14,6 @@ Welcome to my GitHub profile! I'm passionate about building useful tools, writin
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelightIn&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DelightIn&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
