@@ -26,16 +26,7 @@ Welcome to my GitHub profile! I'm passionate about building useful tools, writin
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 🌐 [Portfolio Website](https://yourwebsite.com)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📬 Email: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-## 🔥 Latest Projects
-
-Here are some of my recent or favorite projects:
-
-- 🧠 **[Project Name](https://github.com/your-username/project-name)** — A short description of what this does.
-- 📊 **[Another Project](https://github.com/your-username/another-project)** — A short description of this one too.
+- 📬 [Email](mailto:your.email@example.com)
 
 ---
 
