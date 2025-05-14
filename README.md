@@ -1,86 +1,53 @@
-# 👩‍💻 Priyanka — Data Scientist | Software Engineering Enthusiast
+# 👋 Hi there, I'm Priyanka!
 
-Hey there! I'm Priyanka — a curious mind who loves building intelligent systems, exploring patterns in data, and crafting clean, responsive user experiences.  
-Whether it's building predictive ML models or designing modern web interfaces, I'm passionate about **solving real-world problems through smart code and design thinking**.
-
----
-
-## 🚀 Tech Snapshot
-
-| 💡 Domain | ⚙️ Skills & Tools |
-|----------|------------------|
-| **Programming & Scripting** | Python, JavaScript (ES6+), TypeScript, SQL |
-| **AI & Machine Learning** | Scikit-learn, TensorFlow, Deep Learning, Data Visualization |
-| **Front-End Engineering** | React.js, Next.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3 |
-| **Database & Backend Basics** | MySQL, MongoDB, DBMS |
-| **Version Control & Deployment** | Git, GitHub, Vercel, Netlify |
-| **Tools & Platforms** | Jupyter, Colab, VS Code, Postman |
+Welcome to my GitHub profile! I'm passionate about building useful tools, writing clean code, and continuously learning new technologies. 🚀
 
 ---
 
-## 📊 GitHub at a Glance
+## 🔧 Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Delight-In&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🧠 My Mindset
-
-> "Great software doesn’t just work — it tells a story, solves a problem, and inspires innovation."
-
-### 🔍 I Believe In:
-- Code that's clean, scalable, and meaningful
-- Data that's insightful and actionable
-- Products that serve real users, not just hypothetical ones
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,go,html,css)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions)
+![Tools](https://skillicons.dev/icons?i=git,vscode,linux,figma)
 
 ---
 
-## 🏆 Developer Milestones
+## 📈 GitHub Stats
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Delight-In&theme=radical&margin-w=5)
-
-- 🧪 Built end-to-end ML projects with real datasets
-- 🖼️ Designed sleek, responsive UIs with Tailwind and React
-- 🧠 Consistent learner on platforms like LeetCode and Kaggle
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Explore My Work
+## 📫 Let's Connect!
 
-| Platform | Link |
-|---------|------|
-| 🧠 **Kaggle** | [kaggle.com/priyanka369](https://www.kaggle.com/priyanka369) |
-| 🧩 **LeetCode** | [leetcode.com/u/xqRQuJc9jA](https://leetcode.com/u/xqRQuJc9jA/) |
-| ✍️ **Medium Blog** | [medium.com/@priyanka.professionalwork](https://medium.com/@priyanka.professionalwork) |
-| 💼 **GitHub** | [github.com/priyanka369](https://github.com/priyanka369) |
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 📬 Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-## 🌱 What I’m Learning Now
+## 🔥 Latest Projects
 
-- Advanced **Next.js 14** with Server Actions
-- Deploying scalable AI projects
-- Mastering **Redux Toolkit** patterns
-- Exploring **Vector Databases** & **LLMs**
+Here are some of my recent or favorite projects:
 
----
-
-## 🎯 Let's Build Something Awesome
-
-I'm always open to collaboration, brainstorming tech ideas, or contributing to exciting projects.
-
-Feel free to connect or just say hi!
+- 🧠 **[Project Name](https://github.com/your-username/project-name)** — A short description of what this does.
+- 📊 **[Another Project](https://github.com/your-username/another-project)** — A short description of this one too.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Delight-In" alt="Profile views" />
-</p>
+## 📝 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built My Personal Website](https://yourblog.com/post)
+- [Understanding OAuth in Simple Terms](https://yourblog.com/post)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-_Thanks for visiting my profile. Stay curious, keep building! 🌟_
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting! 🎉
