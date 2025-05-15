@@ -8,9 +8,11 @@ Welcome to my GitHub profile! I'm passionate about building useful tools, writin
 
 ## 🔧 Technologies & Tools
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,html,css)
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask)
-![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,html,css)  
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask)  
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb)  
+![Data Science](https://skillicons.dev/icons?i=python,jupyter,pandas,numpy,matplotlib,scikit-learn,tensorflow)
+
 
 
 Thanks for visiting! 🎉
