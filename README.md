@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
-<h3 align="center">Aspiring Data Analyst & AI/ML Developer from India 🇮🇳</h3>
+<h3 align="center">Data Analyst & AI/ML Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Delight-In&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -69,15 +69,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Delight-In&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delight-In&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=delight-in&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delight-in&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -89,13 +89,6 @@
 - Deep Learning & Computer Vision
 - AI Agents & Automation
 - NLP & Generative AI
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *Add your LinkedIn link here*
-- 📧 Email: *Add your email here*
 
 ---
 
