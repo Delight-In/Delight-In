@@ -72,21 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delight-In&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Delight-In&show_icons=true" 
-    alt="GitHub Stats"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In" 
-    alt="Top Languages"
-    height="180"
-  />
-</p>
 ---
 
 ## 🌟 Current Focus
