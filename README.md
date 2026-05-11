@@ -73,13 +73,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delight-in&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Delight-In&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    alt="GitHub Stats"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delight-in&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delight-In&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    alt="Top Languages"
+    height="180"
+  />
 </p>
-
 ---
 
 ## 🌟 Current Focus
